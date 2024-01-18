@@ -13,7 +13,7 @@ This is a React component that provides a customizable text editor with special 
 
 ```bash
 npm install
-
+```
 
 #Props
 The CustomEditor component does not currently accept any props.
