@@ -1,0 +1,27 @@
+.RED_COLOR {
+  color: red;
+}
+.DraftEditor-root {
+  color: initial;
+}
+
+.DraftEditor-root .COLOR_RED {
+  color: red;
+}
+
+.note {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.note h5 {
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.note p {
+  margin-bottom: 5px;
+  color: #555;
+}
