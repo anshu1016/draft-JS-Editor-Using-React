@@ -15,18 +15,18 @@ This is a React component that provides a customizable text editor with special 
 npm install
 ```
 
-#Props
+# Props
 The CustomEditor component does not currently accept any props.
 
-#Commands
+# Commands
 Header Tags: Start a new line with #.
 Bold Text: Start a new line with $.
 Red Color: Start a new line with %.
 Underline: Start a new line with @.
-#Notes
+# Notes
 The editor's content is automatically saved to the local storage.
 Saved content can be reloaded even after refreshing the page.
 The "Save" button allows manual saving of the current editor content.
-#Example
+# Example
 For a live example, refer to the demo page.
 
